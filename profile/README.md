@@ -1,8 +1,8 @@
 ## Welcome to Infinite Red's GitHub home!
 
-Infinite Red ([infinite.red](https://infinite.red/?r=github-ir-readme)) is a [React Native consultancy](https://infinite.red/react-native-consultants) based entirely in the USA and Canada. We help companies build their apps using React Native and Expo. We have over 75 projects under our belt!
+Infinite Red ([infinite.red](https://infinite.red/?r=github-ir-readme)) is a [React Native consultancy](https://infinite.red/react-native-consultants) based entirely in the USA and Canada. We help companies build their apps using React Native and Expo. We have over ~70~ ~75~ 85 projects under our belt!
 
-We've been around since 2015! You can learn more about our beginnings on our founders' podcast, [Building Infinite Red](https://building.infinite.red/).
+We've been around since 2015! _(and really since well before that, as it was born from a merger!)_ You can learn more about our beginnings on our founders' podcast, [Building Infinite Red](https://building.infinite.red/).
 
 > [!NOTE]
 > Open source software is in our DNA! The owners of Infinite Red (Jamon, Gant, and Todd) met through their involvement in the Ruby open source world, and from the very beginning we've been active in open source.
